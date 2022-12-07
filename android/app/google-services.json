@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46215472945",
+    "project_id": "agenda-rosita",
+    "storage_bucket": "agenda-rosita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46215472945:android:137ebdb3f49b10980c7210",
+        "android_client_info": {
+          "package_name": "co.edu.konrad.tienda_rosita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46215472945-ba3adl9odqkg6cjb11mjrbkkjd0udjf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlPBsLnHgsqzUVyn35raZH_c4ydm6ZsAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46215472945-ba3adl9odqkg6cjb11mjrbkkjd0udjf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

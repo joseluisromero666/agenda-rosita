@@ -1,0 +1,1 @@
+var currentView = "Registro";
